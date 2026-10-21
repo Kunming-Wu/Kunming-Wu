@@ -7,7 +7,7 @@
 
 LLM Agent · Long-Horizon Reasoning · Multimodal Learning · RAG · Reinforcement Learning
 
-[个人主页 Homepage](https://wkmallmx.github.io) · [2197639171@qq.com](mailto:2197639171@qq.com)
+[个人主页 Homepage](https://kunming-wu.github.io) · [2197639171@qq.com](mailto:2197639171@qq.com)
 
 </div>
 
@@ -105,6 +105,6 @@ Canvas、Excalidraw、SPSSPRO、墨刀、Git、JIRA、PS、PR。爱好：羽毛�
 
 <div align="center">
 
-[查看完整个人主页 · Full homepage](https://wkmallmx.github.io)
+[查看完整个人主页 · Full homepage](https://kunming-wu.github.io)
 
 </div>
