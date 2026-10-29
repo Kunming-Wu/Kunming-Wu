@@ -33,6 +33,28 @@ direction independently, as well as turning it into something a real user can to
 
 ---
 
+## 参与项目 · Projects
+
+两个与校内外同学协作的开源项目：
+
+- **[GeoGR²](https://github.com/JinfanTang/GeoGRR)**（Python）— EMNLP 2026 Findings
+  论文官方实现，用 geostatistical guidance 对 LLM 的零样本地理推断做多轮迭代
+  refinement。[论文 PDF / ACL Anthology](https://aclanthology.org/2026.findings-emnlp.310/)
+- **[agentRadar](https://github.com/sunrisefromdark/agentRadar)**（HTML）— AI Agent
+  趋势研判工具：多源观察、新兴项目发现、评分依据与每周决策，带工具回退机制。
+
+Collaborations on two open-source projects:
+
+- **[GeoGR²](https://github.com/JinfanTang/GeoGRR)** (Python) — official
+  implementation of our EMNLP 2026 Findings paper on zero-shot geospatial
+  inference with LLM iterative refinement.
+  [Paper on ACL Anthology](https://aclanthology.org/2026.findings-emnlp.310/)
+- **[agentRadar](https://github.com/sunrisefromdark/agentRadar)** (HTML) — an AI-agent
+  trend radar: multi-observer sources, emerging-project discovery, scoring rationale,
+  and weekly decisions with tool fallback.
+
+---
+
 <div align="center">
 
 [查看完整简历 · Full CV on my homepage](https://kunming-wu.github.io)
